@@ -1,0 +1,21 @@
+{
+    "metaData": {
+        "version": "0.0.1"
+    },
+    "setups": {
+        "Round 1": {
+            "rounds": 1,
+            "map": "kozi",
+            "map-version": "2", 
+            "seed": "",
+            "score-algorithm": "linear",
+            "oldest-year": 2010,
+            "bounding-box":{
+                "north": -35.88246925932055,
+                "east": 148.70372787071582,
+                "south": -36.548751651998565,
+                "west":148.13174582658957
+            }
+        }
+    }
+}
